@@ -1,0 +1,4 @@
+node_modules
+ipackage-lock.json
+nginx
+nginx/default.conf
